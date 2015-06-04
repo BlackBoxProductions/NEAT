@@ -1,0 +1,94 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.106 seconds
+desktop: 2560x1080 60Hz; virtual: 2560x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Uni\Gruppen\BlackBox\NEAT\NEAT\bin\WindowsExe_Data\Managed\System.dll (this message is harmless)
+Doing stuff in init...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Game state changed to:scene_MainMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 27a0 -> priority: 1 
+  Thread -> id: 27a4 -> priority: 1 
+  Thread -> id: 27a8 -> priority: 1 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.406919 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 0.252966 ms (FindLiveObjects: 0.012725 ms CreateObjectMapping: 0.013657 ms MarkObjects: 0.200511 ms  DeleteObjects: 0.025762 ms)
+
+Game state changed to:state_Paused
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Level 'state_Paused' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 274)
+
+Game state changed to:state_Paused
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Level 'state_Paused' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 274)
+
+Game state changed to:state_Paused
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Level 'state_Paused' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 274)
+
+Game state changed to:state_Paused
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Level 'state_Paused' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 274)
+
+Game state changed to:scene_Trophies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Level 'scene_Trophies' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 274)
+
+Game state changed to:scene_QuitGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.100905 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 154.
+Total: 0.279970 ms (FindLiveObjects: 0.017692 ms CreateObjectMapping: 0.018623 ms MarkObjects: 0.236205 ms  DeleteObjects: 0.006518 ms)
+
